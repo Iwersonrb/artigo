@@ -28,11 +28,12 @@ Inspirar profissionais da área de tecnologia a **desenvolverem competências co
 
 ## 🔗 Referências
 
-- CartaCapital:  
-  [Profissionais de inovação ganham protagonismo](https://www.cartacapital.com.br/economia/profissionais-de-inovacao-ganham-protagonismo-nas-empresas/)
+- **CartaCapital**:  
+  [Profissional de inovação ganha protagonismo nas estratégias de crescimento das empresas](https://www.cartacapital.com.br/do-micro-ao-macro/profissional-de-inovacao-ganha-protagonismo-nas-estrategias-de-crescimento-das-empresas/) :contentReference[oaicite:8]{index=8}
 
-- ABRH Brasil:  
-  [O protagonismo da carreira](https://www.abrhbrasil.org.br/noticias/o-protagonismo-da-carreira/)
+- **ABRH Brasil**:  
+  Consulte publicações recentes sobre o protagonismo no RH e gestão de pessoas nos sites da ABRH ou Mundo RH, como destacam os temas com frequência. :contentReference[oaicite:9]{index=9}
+
 
 ---
 
