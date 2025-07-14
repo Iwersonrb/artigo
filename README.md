@@ -39,7 +39,7 @@ Inspirar profissionais da área de tecnologia a **desenvolverem competências co
 
 ## 🧩 Formato
 
-- Arquivo: [`.pptx` (PowerPoint)](https://github.com/Iwersonrb/artigo/blob/main/Protagonismo_Tech_Apresentacao.pptx)
+- Arquivo: [Protagonismo_Tech_Apresentacao.pptx](https://github.com/Iwersonrb/artigo/blob/main/Protagonismo_Tech_Apresentacao.pptx)
 - Versão com estilo visual aprimorado e links embutidos
 - Ideal para:
   - Apresentações em empresas e eventos tech
@@ -50,7 +50,7 @@ Inspirar profissionais da área de tecnologia a **desenvolverem competências co
 
 ## 📥 Download
 
-- [Apresentação estilizada em PowerPoint (.pptx)](./Apresentacao_Protagonismo_Tech_Visual.pptx)
+- [[Apresentação estilizada em PowerPoint (.pptx)](./Apresentacao_Protagonismo_Tech_Visual.pptx)](https://github.com/Iwersonrb/artigo/raw/refs/heads/main/Protagonismo_Tech_Apresentacao.pptx)
 
 ---
 
