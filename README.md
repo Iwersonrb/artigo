@@ -39,7 +39,7 @@ Inspirar profissionais da área de tecnologia a **desenvolverem competências co
 
 ## 🧩 Formato
 
-- Arquivo: `.pptx` (PowerPoint)
+- Arquivo: [`.pptx` (PowerPoint)](https://github.com/Iwersonrb/artigo/blob/main/Protagonismo_Tech_Apresentacao.pptx)
 - Versão com estilo visual aprimorado e links embutidos
 - Ideal para:
   - Apresentações em empresas e eventos tech
