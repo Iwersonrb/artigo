@@ -61,3 +61,10 @@ Se quiser contribuir com novas ideias, traduções ou versões em PDF/Keynote, s
 ---
 
 **#Protagonismo #Tecnologia #Liderança #CarreiraTech #SoftSkills #Inovação**
+## 📬 Contato
+
+- E-mail: [iwersonrb@gmail.com](mailto:iwersonrb@gmail.com)
+- LinkedIn: [iwersonrb](https://www.linkedin.com/in/iwersonrb/)
+- GitHub: [Iwersonrb](https://github.com/Iwersonrb)
+
+---
