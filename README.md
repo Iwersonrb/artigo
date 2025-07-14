@@ -32,7 +32,7 @@ Inspirar profissionais da área de tecnologia a **desenvolverem competências co
   [Profissional de inovação ganha protagonismo nas estratégias de crescimento das empresas](https://www.cartacapital.com.br/do-micro-ao-macro/profissional-de-inovacao-ganha-protagonismo-nas-estrategias-de-crescimento-das-empresas/) :contentReference[oaicite:8]{index=8}
 
 - **ABRH Brasil**:  
-  [Consulte publicações recentes sobre o protagonismo no RH e gestão de pessoas nos sites da ABRH ou Mundo RH, como destacam os temas com frequência.]([https://www.cartacapital.com.br/do-micro-ao-macro/profissional-de-inovacao-ganha-protagonismo-nas-estrategias-de-crescimento-das-empresas/](https://pt.linkedin.com/posts/abrhbrasil_abrh-gest%C3%A3odepessoas-rh-activity-7349830837820911616-9wuV?utm_source=chatgpt.com)) :contentReference[oaicite:9]{index=9}
+  [Consulte publicações recentes sobre o protagonismo no RH e gestão de pessoas nos sites da ABRH ou Mundo RH, como destacam os temas com frequência.](https://pt.linkedin.com/posts/abrhbrasil_abrh-gest%C3%A3odepessoas-rh-activity-7349830837820911616-9wuV?utm_source=chatgpt.com):contentReference[oaicite:9]{index=9}
 
 
 ---
